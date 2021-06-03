@@ -1,0 +1,5 @@
+Realizar Transaccion Wed Jun 02 21:00:21 COT 2021 
+Retirar Dinero Wed Jun 02 21:04:46 COT 2021 
+Retirar Dinero Wed Jun 02 21:08:42 COT 2021 
+Realizar Transaccion Wed Jun 02 21:23:54 COT 2021 
+Retirar Dinero Wed Jun 02 21:23:54 COT 2021 
